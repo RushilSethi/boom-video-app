@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+.env
+uploads/
+
+# Logs
+logs
+*.log
+
+# Mac/OS files
+.DS_Store
+
+# Vite
+dist/
+*.local
+
+# VS Code
+.vscode/
+
+# Optional backups or build caches
+*.zip
+*.tgz
+.cache/
