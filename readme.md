@@ -30,7 +30,7 @@ A basic short-video platform built for BOOM Entertainment's Full Stack Mobile Ap
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/boom-video-app.git
+git clone https://github.com/RushilSethi/boom-video-app
 cd boom-video-app
 ```
 
@@ -69,5 +69,5 @@ The app will run at `http://localhost:5173` and connect to `http://localhost:500
 
 ## 🎥 Demo
 
-📺 [Watch the demo video here](https://your-demo-link.com)
+📺 [Watch the demo video here](https://drive.google.com/file/d/1NM5i1Bx46NqBTsIa8914PWdLA2qnva5N/view?usp=sharing)
 
